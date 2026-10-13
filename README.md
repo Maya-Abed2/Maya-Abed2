@@ -1,6 +1,6 @@
 <!-- HEADER (Banner image with typing text) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=12141a&height=200&section=header&text=MAYA%20ABED&fontSize=50&fontColor=ffffff&fontAlign=80&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20(.NET%20%2B%20REACT)&descSize=20&descAlign=80&descAlignY=60" alt="Maya Abed Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12141a&height=200&section=header&text=MAYA%20ABED&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20&descSize=20&descAlign=50&descAlignY=60" alt="Maya Abed Banner" />
 </p>
 
 <!-- INTRODUCTION -->
